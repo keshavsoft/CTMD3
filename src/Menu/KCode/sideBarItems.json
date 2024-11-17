@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Home",
+        "icon": "bi bi-grid",
+        "url": "/laundry.html"
+    },
+    {
+        "name": "Parent",
+        "icon": "bi bi-arrow-90deg-left",
+        "url": "../../../../../laundryAdmin.html"
+    },
+    {
+        "name": "AllDays",
+        "key": "Simple",
+        "icon": "bi bi-file-earmark",
+        "children": [
+            {
+                "name": "CommonConfig",
+                "url": "../../../AdminAllDays/CommonConfig/Menu/HtmlFiles/",
+                "icon": "bi bi-list"
+            }
+        ]
+    }
+]
